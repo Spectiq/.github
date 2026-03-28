@@ -1,6 +1,6 @@
 # 🕶️ Spectiq
 
-A modern eyewear e-commerce platform inspired by Lenskart, built with a scalable full-stack architecture.
+A modern eyewear e-commerce platform, built with a scalable full-stack architecture.
 
 ---
 
